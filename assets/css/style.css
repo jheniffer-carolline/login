@@ -1,0 +1,13 @@
+.tm-icon{
+    width: 60px ;
+    height: 60px ;
+}
+
+.tx-center {
+    text-align: center;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+  }
